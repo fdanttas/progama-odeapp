@@ -1,0 +1,13 @@
+/* src\components\Mensagem\infoAluno\styles.css */
+
+.info-aluno h1{
+    color: #062bfc;
+    margin: 10px 0;
+    font-size: 24px;
+}   
+
+.info-aluno p{
+    color: #006172;
+    margin: 10px 0;
+    font-size: 18px;
+}
